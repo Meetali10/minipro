@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/Home": "pages/Home.js",
+  "/Login": "pages/Login.js",
+  "/api/signupmdb": "pages/api/signupmdb.js",
+  "/api/loginmdb": "pages/api/loginmdb.js",
+  "/Signup": "pages/Signup.js",
+  "/cards": "pages/cards.js",
+  "/app": "pages/app.js",
+  "/navbar": "pages/navbar.js",
+  "/": "pages/index.js",
+  "/productDetails": "pages/productDetails.js",
+  "/_document": "pages/_document.js"
+}
